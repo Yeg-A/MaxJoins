@@ -1,0 +1,13 @@
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\bin\Debug\netcoreapp3.1\MaxJoins.exe
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\bin\Debug\netcoreapp3.1\MaxJoins.deps.json
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\bin\Debug\netcoreapp3.1\MaxJoins.runtimeconfig.json
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\bin\Debug\netcoreapp3.1\MaxJoins.runtimeconfig.dev.json
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\bin\Debug\netcoreapp3.1\MaxJoins.dll
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\bin\Debug\netcoreapp3.1\MaxJoins.pdb
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\obj\Debug\netcoreapp3.1\MaxJoins.csprojAssemblyReference.cache
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\obj\Debug\netcoreapp3.1\MaxJoins.csproj.CoreCompileInputs.cache
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\obj\Debug\netcoreapp3.1\MaxJoins.AssemblyInfoInputs.cache
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\obj\Debug\netcoreapp3.1\MaxJoins.AssemblyInfo.cs
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\obj\Debug\netcoreapp3.1\MaxJoins.dll
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\obj\Debug\netcoreapp3.1\MaxJoins.pdb
+C:\Users\Yegermal\Source\Repos\MaxJoins\MaxJoins\obj\Debug\netcoreapp3.1\MaxJoins.genruntimeconfig.cache
