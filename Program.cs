@@ -25,7 +25,7 @@ namespace MaxJoins
 
             list = list.Select(x => x).Where(x => columns.Count(x => x.Contains(x[1])) > 1).ToList();
 
-            //create a dictionary that has a table as the key & columns they own as the Value
+            //create a dictionary that has a table as the key & columns their own as the Value
             Dictionary<string, HashSet<string>> dictionary = new Dictionary<string, HashSet<string>>();
             Dictionary<string, HashSet<string>> answer = new Dictionary<string, HashSet<string>>();
             HashSet<string> uniqueJoins = new HashSet<string>();
